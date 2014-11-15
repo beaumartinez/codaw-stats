@@ -1,6 +1,6 @@
 # COD AW Stats
 
-Quick and dirty script to fetch your COD AW stats from the same service the mobile apps use.
+Quick and dirty script to fetch your COD AW stats, from the same service the mobile apps use.
 
 ## Usage
 
