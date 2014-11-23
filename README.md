@@ -4,7 +4,7 @@ Quick and dirty script to fetch your COD AW stats, from the same service the mob
 
 ## Usage
 
-	./codaw.py <email> <password> {psn|uno|xbl}
+	./codaw.py <email> <password> {psn|steam|xbl}
 
 That last argument is the network, and is one of PlayStation, Steam, or Xbox.
 

@@ -44,7 +44,7 @@ if __name__ == '__main__':
     parser = ArgumentParser(description='Fetch your COD AW stats, from the same service the mobile apps use.')
     parser.add_argument('email', help='Email')
     parser.add_argument('password', help='Password')
-    parser.add_argument('network', choices=('psn', 'uno', 'xbl'), help='Network (PlayStation, Steam, or Xbox)')
+    parser.add_argument('network', choices=('psn', 'steam', 'xbl'), help='Network (PlayStation, Steam, or Xbox)')
 
     args = parser.parse_args()
 
